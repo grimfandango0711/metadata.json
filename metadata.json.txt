@@ -1,7 +1,0 @@
-{
-  "name": "grimfandango",
-  "website": "https://github.com/grimfandango0711",
-  "description": "grimfandangonode",
-  "logo": "https://raw.githubusercontent.com/grimfandango0711/logo/main/df6.jpg",
-  "twitter": "https://twitter.com/grimorum0711"
-}
